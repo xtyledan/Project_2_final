@@ -1,4 +1,4 @@
-# Project 2: Dashboard and Database Integration for Grazioso Salvare
+Dashboard and Database Integration for Grazioso Salvare
 
 ## Project Overview
 
